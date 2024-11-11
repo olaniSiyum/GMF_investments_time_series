@@ -1,0 +1,12 @@
+data
+.venv
+models/*.pkl
+models/*.h5
+models/*.joblib
+results/
+results/plots/
+results/forecasts/
+results/portfolio_analysis/
+__pycache__/
+*.py[cod]
+*.pyo
